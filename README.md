@@ -65,3 +65,5 @@ Se aplican principios de **POO, Herencia y validaciones de datos**.
 - Se debe elaborar el archivo **CARATULA.txt** para entrega en aula digital.  
 
 ---
+## 🎤 Fecha de entrega
+- 20 de septiembre de 2025
