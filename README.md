@@ -1,17 +1,12 @@
-# **UNIVERSIDAD DON BOSCO**  
+# Portada de trabajo
+**UNIVERSIDAD DON BOSCO**  
 Dirección de Educación a Distancia  
-
----
 
 **MATERIA:**  
 Programación Orientada a Objetos POO901 G01T (Virtual)  
 
----
-
 **DOCENTE:**  
 Rafael Alexander Torres Rodríguez  
-
----
 
 **INTEGRANTES:**  
 - MR251336 - Darwin Ezequiel Martínez Rosales  
@@ -19,8 +14,6 @@ Rafael Alexander Torres Rodríguez
 - AV251709 - Milton Adalberto Ayala Ventura  
 - SG240238 - Nelson Mauricio Solano Guardado  
 - VM251307 - Victor Emmanuel Velasco Martinez  
-
----
 
 **LINK VIDEO:**  
 [https://youtu.be/ApE3S8x5rtI?si=93q_25_-AqTr2J9T](https://youtu.be/ApE3S8x5rtI?si=93q_25_-AqTr2J9T)  
