@@ -1,6 +1,4 @@
-# 📄 Carátula  
-
-**UNIVERSIDAD DON BOSCO**  
+# **UNIVERSIDAD DON BOSCO**  
 Dirección de Educación a Distancia  
 
 ---
@@ -58,8 +56,8 @@ Se aplican principios de **POO, Herencia y validaciones de datos**.
 - ✅ Uso de **Herencia**:  
   - Clase **Padre**  
   - 3 **Subclases Hijas** (1 por cada tipo de equipo)  
-  - Instanciación de objetos desde el **Main**  
-  - Almacenamiento en **ArrayList**  
+- ✅ Instanciación de objetos desde el **Main**  
+- ✅ Almacenamiento en **ArrayList**  
 - ✅ **Validaciones**: no se permiten campos vacíos  
 
 ---
