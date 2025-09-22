@@ -1,3 +1,37 @@
+# 📄 Carátula  
+
+**UNIVERSIDAD DON BOSCO**  
+Dirección de Educación a Distancia  
+
+---
+
+**MATERIA:**  
+Programación Orientada a Objetos POO901 G01T (Virtual)  
+
+---
+
+**DOCENTE:**  
+Rafael Alexander Torres Rodríguez  
+
+---
+
+**INTEGRANTES:**  
+- MR251336 - Darwin Ezequiel Martínez Rosales  
+- GH251230 - Fernando José Gómez Hernández  
+- AV251709 - Milton Adalberto Ayala Ventura  
+- SG240238 - Nelson Mauricio Solano Guardado  
+- VM251307 - Victor Emmanuel Velasco Martinez  
+
+---
+
+**LINK VIDEO:**  
+[https://youtu.be/ApE3S8x5rtI?si=93q_25_-AqTr2J9T](https://youtu.be/ApE3S8x5rtI?si=93q_25_-AqTr2J9T)  
+
+**LINK REPOSITORIO DE PROYECTO:**  
+[https://github.com/VMz69/poo-exp1-foro2](https://github.com/VMz69/poo-exp1-foro2)  
+
+---
+
 # 💻 Gestión de Equipos en Tienda
 
 Aplicación en **Java (Swing)** que permite el registro de diferentes modelos de equipos (Desktops, Laptops y Tablets).  
@@ -30,8 +64,39 @@ Se aplican principios de **POO, Herencia y validaciones de datos**.
 
 ---
 
+## ⚙️ Instalación y ejecución
+
+Compilar y ejecutar desde consola:  
+```bash
+javac Main.java
+java Main
+```
+
+O abrir el proyecto en un IDE (ej. NetBeans, IntelliJ, VSCode) y ejecutar la clase `Main`.
+
+---
+
+## 📖 Ejemplo de uso en código
+
+```java
+Desktop desktop = new Desktop(
+    "Lenovo",
+    "Thinkcentre",
+    "Intel Core i7 860 2.80GHz",
+    "2GB RAM",
+    "GeForce 8400 GS",
+    "19 pulgadas",
+    "500GB"
+);
+
+equipos.add(desktop);
+```
+
+---
+
 ## 🎨 Apariencia de la aplicación
 
+Menú principal:  
 1. Registrar equipo  
    - Desktops  
    - Laptops  
@@ -42,19 +107,26 @@ Se aplican principios de **POO, Herencia y validaciones de datos**.
    - Tablets  
 3. Salir  
 
+📌 *Se recomienda incluir capturas de pantalla de los formularios JOptionPane.*  
+
 ---
 
 ## 🖼️ Ejemplo de visualización final
 
 | 🖥️ **Desktops** | 💻 **Laptops** | 📱 **Tablets** |
 |-----------------|----------------|----------------|
-| **Fabricante:** Lenovo | **Fabricante:** Toshiba | **Fabricante:** Samsung |
-| **Modelo:** Thinkcentre | **Modelo:** Satellite S50 Series | **Modelo:** Tab 4 |
-| **Microprocesador:** Intel Core i7 860 2.80GHz | **Microprocesador:** Intel Core i3-2330M | **Microprocesador:** Nvidia Dual Core |
-| **Memoria:** 2GB RAM | **Memoria:** 4GB RAM | **Tamaño diagonal pantalla:** 10.1” |
-| **Tarjeta gráfica:** GeForce 8400 GS | **Tamaño pantalla:** 17” | **¿Capacitiva/Resistiva?:** Capacitiva |
-| **Tamaño de torre:** 19 pulgadas | **Capacidad disco duro:** 320GB | **Tamaño memoria NAND:** 16GB |
-| **Capacidad disco duro:** 500GB | | **Sistema Operativo:** Android |
+| Lenovo *(Thinkcentre)* | Toshiba *(Satellite S50 Series)* | Samsung *(Tab 4)* |
+| Intel Core i7 860 2.80GHz | Intel Core i3-2330M | Nvidia Dual Core |
+| 2GB RAM | 4GB RAM | Pantalla 10.1” |
+| GeForce 8400 GS | Pantalla 17” | Capacitiva |
+| Torre 19” | Disco 320GB | NAND 16GB |
+| Disco 500GB |  | Android |
+
+---
+
+## 📅 Fecha de entrega
+
+- **27 de septiembre de 2025** (prórroga)  
 
 ---
 
@@ -65,5 +137,7 @@ Se aplican principios de **POO, Herencia y validaciones de datos**.
 - Se debe elaborar el archivo **CARATULA.txt** para entrega en aula digital.  
 
 ---
-## Fecha de entrega
-- 20 de septiembre de 2025
+
+## 📜 Licencia
+
+Proyecto con fines **académicos y educativos**.  
